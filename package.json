@@ -1,0 +1,23 @@
+{
+  "name": "async-landing-page",
+  "version": "1.0.0",
+  "description": "Landing page utilizando la API de YouTube.",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolasvaldelamar/async-landing-page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicolasvaldelamar/async-landing-page/issues"
+  },
+  "homepage": "https://github.com/nicolasvaldelamar/async-landing-page#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
